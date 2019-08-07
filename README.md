@@ -1,4 +1,3 @@
 # realestate-server
-부동산 프로젝트 API
+> 부동산 프로젝트 API 서버
 
-## spring boot framework
