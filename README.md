@@ -1,4 +1,4 @@
-# realestate-server
+# realestate-api
 > 부동산 프로젝트 API 서버
 
 ## fuction
